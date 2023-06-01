@@ -30,6 +30,7 @@
                         <th>Nama</th>
                         <th>sks</th>
                         <th>semester</th>
+                        <th>aksi</th>
                     </tr>
                 </thead>
                 <tbody>
